@@ -1,6 +1,6 @@
 """Unit tests for climate.py"""
 
-__author__ = 'James Rapaport'
+__author__ = 'Adekunle Adeoya'
 
 import unittest
 
